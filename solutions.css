@@ -1,0 +1,33 @@
+
+#title{
+  background-color: #3AB4F2;
+  height:50%;
+}
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.4rem;
+}
+.navbar{
+  padding:5% 14% 1.2%;
+}
+#pricing p{
+  font-family: 'ubuntu';
+}
+#pricing .btn{
+  width: 100%;
+}
+#pricing .card{
+  text-align: center;
+  margin:2% 5%;
+}
+#pricing button{
+  font-family: 'ubuntu';
+}
+#pricing{
+  padding:5% 7%;
+  position: relative;
+  text-align: center;
+}
+.pricing-second{
+  color:grey;
+}
